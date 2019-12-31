@@ -1,5 +1,5 @@
 # GUI-Python_tkinter 
-### :octocat: Sqlite3 based login/signup page created using Tkinter ###
+### :octocat: Sqlite3 based Login/Signup Page created using Tkinter. ###
 
 ## Sign Up ##
 ![SIGNUP](/ScreenShots/SignUpPage.jpg)
